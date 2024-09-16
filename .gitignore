@@ -1,0 +1,7 @@
+*.meta
+*.asset
+*.sln
+*.csproj
+Library/
+ProjectSettings/
+UserSettings/
